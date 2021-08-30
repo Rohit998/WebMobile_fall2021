@@ -1,11 +1,16 @@
-**Welcome to Web and Mobile Programming Fall 21**
-****
-Student Name: Rohit Reddy Chananagari Prabhakar
+**ICP1 Repository**
 
-ID: 16315591
+**Student Name:** Rohit Reddy Chananagari Prabhakar
 
-Instructor Name: Vijaya Kumari
+In this repository, we are introducing how to setup and use Github, Github Desktop, and WebStorm.
 
-****
+In this ICP, we installed
 
-This respository is for all Web and Mobile ICPs
+1. <a href="https://github.com/" >Github Desktop</a>
+
+2. <a href="https://www.jetbrains.com/webstorm/">Webstorm IDE</a>
+
+3. Created repositories remotely and cloned to local machine. 
+4. Created folders on local Github and remote it.
+5. Create, fork, pull, and sync to remote repository.
+6. Created a new issues and described in pull request.
